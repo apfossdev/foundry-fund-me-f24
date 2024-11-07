@@ -12,3 +12,7 @@ docs/
 
 # Dotenv file
 .env
+
+#these two should also be ignored in git here
+broadcast/
+lib/
